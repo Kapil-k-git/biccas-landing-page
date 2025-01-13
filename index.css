@@ -1,0 +1,7 @@
+body {
+    margin: 0;
+}
+
+.MuiTypography-root {
+    font-family: "Inter", serif !important;
+}
